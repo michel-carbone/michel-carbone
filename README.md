@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-carbone&hide_progress=true)
+[![michel-carbone's GitHub stats](https://github-readme-stats.vercel.app/api?username=michel-carbone&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&line_height=16)](https://github.com/michel-carbone/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michel-carbone&layout=compact)
 
 <!--
 ### Hi there 👋

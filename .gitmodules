@@ -1,0 +1,12 @@
+[submodule "Update a fork with changes in the upstream"]
+	path = Update a fork with changes in the upstream
+	url = https://gist.github.com/michel-carbone/45e9db63a9b7b8571d8e79daa85d2de5
+[submodule "Git Submodules basic explanation"]
+	path = Git Submodules basic explanation
+	url = https://gist.github.com/michel-carbone/abbc6041655fb3e929321c0ac38f21c6
+[submodule "Git integration in VS2008"]
+	path = Git integration in VS2008
+	url = https://gist.github.com/michel-carbone/46fc33e15dbe2ef1f3129e9a6b601c2c
+[submodule "recover mysql.db file on Windows"]
+	path = recover mysql.db file on Windows
+	url = https://gist.github.com/michel-carbone/c452673c1f5182c77718f9eb4277d00a
